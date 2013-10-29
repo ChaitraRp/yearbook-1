@@ -1,0 +1,73 @@
+body{
+
+	background-color: #2D2D2D;
+		font-family: 'Lato', sans-serif;
+
+
+}
+
+header{
+	height: 200px;
+}
+#deck{
+	width: 80%;
+margin:0 auto;
+}
+
+
+
+.card{
+  background: #fff;
+margin: 1px;
+ float: left;
+ overflow: hidden
+}
+
+.card.w25{
+  width: 24.5%;
+  height: 250px;
+
+}
+
+.card.w50{
+  width: 49.16%;
+  height: 502px;
+
+}
+
+#yearbook{
+	background-color: #1EC2F8;
+	color:white;
+}
+
+.title{
+	font-family: 'Lato', sans-serif;
+	text-align: center;
+	font-size: 3em;
+}
+
+#cam{
+	margin: 0 auto;
+}
+
+#takepic{
+	font-family: 'Open Sans', sans-serif;
+	color:#2D2D2D;
+	text-align: center;
+	font-size: 1.5em;
+}
+
+#takepic span{
+	font-size: 2em;
+}
+
+#takepic:hover{
+	  cursor: pointer;
+
+}
+
+.pplpic{
+	height: 100%;
+	box-shadow: 2px 2px 0 0 #2D2D2D inset;
+
+}

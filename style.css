@@ -71,3 +71,12 @@ margin: 1px;
 	box-shadow: 2px 2px 0 0 #2D2D2D inset;
 
 }
+
+#proto{
+	color:white;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 3em;
+	background-color: #2ecc71;
+	text-align: center;
+
+}
